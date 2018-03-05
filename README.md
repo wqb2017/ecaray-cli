@@ -14,10 +14,10 @@ Open your terminal and type `ecaray` or `ecaray -h` , you'll see the help infoma
   Usage: ecaray <command>
 
   Commands:
-    add|a      Add a new template
-    list|l     List all the templates
-    init|i     Generate a new project
-    delete|d   Delete a template
+    add      新增模板
+    list     查看已添加模板
+    init     初始化模板并创建新项目
+    delete   删除已存在模板
 
   Options:
     -h, --help     output usage information
