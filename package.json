@@ -28,5 +28,10 @@
     "ora": "^1.2.0"
   },
   "author": "wangqibiao",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wqb2017/ecaray-cli/issues"
+  },
+  "homepage": "https://github.com/wqb2017/ecaray-cli#readme",
+  "devDependencies": {}
 }

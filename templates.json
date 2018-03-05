@@ -1,1 +1,4 @@
-{"ec-vue-template":{"owner/name":"wqb2017/ec-vue-cli","branch":"master"}}
+{
+  "ec-vue-template": { "owner/name": "wqb2017/ec-vue-cli", "branch": "master" },
+  "projects-merge": { "owner/name": "wqb2017/projects-merge", "branch": "master" }
+}
