@@ -26,16 +26,16 @@ Open your terminal and type `ecaray` or `ecaray -h` , you'll see the help infoma
 
 ## ecaray add
 
-1. Set the custom name of the template: pro-marge(自定义模板)
+1. Set the custom name of the template: projects-merge(自定义模板)
 2. Owner/name of the template: wqb2017/projects-marge(github 模板)
 3. Branch of the template: master(选中的分支)
 
 ## ecaray init
 
-1. Template name: pro-marge(初始化自定义模板)
+1. Template name: projects-merge(初始化自定义模板)
 2. Project name: qianqianjinfu(创建项目名称)
 3. Where to init the project: ./ (创建项目存储地址)
 
 ## ecaray delete
 
-1. Which template you want to delete: pro-marge(删除模板)
+1. Which template you want to delete: projects-merge(删除模板)
